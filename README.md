@@ -1,4 +1,14 @@
-## Hi there 👋
+<div id="header" align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnh5dnBqaDRyN2ZqeXU2cXo3d2F0ZXlhajNsZGd3cWp6aDdkZzF0NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HscDLzkO8EOTmgkhQP/giphy.gif" width="100"/>
+</div>
+<div id="badges">
+  <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="your-youtube-URL">
+    <img src="https://img.shields.io/badge/Instagram-dc2743?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram Badge"/>
+  </a>
+</div>
 
 <!--
 **Gui-Spranger/Gui-Spranger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
